@@ -1,1 +1,1 @@
-#psuedocode for linear algebra
+## Psuedocode for linear algebra
