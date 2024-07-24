@@ -9,5 +9,5 @@ END FUNCTION
 $A=\begin {pmatrix}
     1&3&3\\
     3&4&5\\
-    5&6&7
+    5&6&7\\
     \end{pmatrix}$
