@@ -7,7 +7,7 @@ FUNCTION Solution(A,b):
     create Augmented matrix: K=[a|b]
     Reduce in Row reduced echelon form
     Rank=no of non zero rows pf RREF
-    if Rank(K)!=Rank(A):
+    IF Rank(K)!=Rank(A):
         print(system is inconsistent)
     ELSE IF:
         solve using back substitution
