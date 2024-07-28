@@ -206,15 +206,14 @@ A function is a named block of code designed to perform a specific task. Functio
 
 #### Defining a Functio 
 In Python, functions are defined using the def keyword, followed by the function name, parentheses containing any parameters, and a colon. The function body, which contains the code to be executed, is indented below the function definition.
+Syntax:
 
-{python}
 def function_name(parameters):
     # Code block
     return result
 
 ##### Example
-{python}
- def greet(name):
+    def greet(name):
     """
     Returns a greeting message for the given name.
     """
